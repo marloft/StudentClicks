@@ -1,8 +1,10 @@
-This repository uses the OULAD Dataset
+This repository contains analyses of data from the OULAD Dataset using Python and SciKitLearn Machine Learning libraries. 
 
+OULAD Dataset
+Open University Learning Analytics Dataset (OULAD) contains data about courses, students and their interactions with Virtual Learning Environment (VLE) for seven selected courses (called modules). Presentations of courses start in February and October - they are marked by 'B' and 'J' respectively. The dataset consists of tables connected using unique identifiers. Dataset is stored in several csv files. More information, examples and news can be found at: 
+https://analyse.kmi.open.ac.uk/open_dataset
 Released under CC-BY 4.0. Please use this paper for your citation: Kuzilek, J., Hlosta, M., Herrmannova, D., Zdrahal, Z. and Wolff, A. OU Analyse: Analysing At-Risk Students at The Open University. Learning Analytics Review, no. LAK15-1, March 2015, ISSN: 2057-7494.
 https://creativecommons.org/licenses/by/4.0/
 
-Open University Learning Analytics Dataset (OULAD) contains data about courses, students and their interactions with Virtual Learning Environment (VLE) for seven selected courses (called modules). Presentations of courses start in February and October - they are marked by 'B' and 'J' respectively. The dataset consists of tables connected using unique identifiers. Dataset is stored in several csv files. More information, examples and news can be found at: [Web Link]
-
+UCI Link (another download source):
 https://archive.ics.uci.edu/ml/datasets/Open+University+Learning+Analytics+dataset#
